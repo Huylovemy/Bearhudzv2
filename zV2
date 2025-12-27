@@ -1,4 +1,4 @@
-local v14 = loadstring(game:HttpGet("https://raw.githubusercontent.com/Huylovemy/New/refs/heads/main/Huyzhud"))():MakeWindow({
+local v14 = loadstring(game:HttpGet("https://github.com/dawid-scripts/Fluent/releases/latest/download/main.lua"))():MakeWindow({
     Title = "Bear Hub",
     SubTitle = "by Quang Huy",
     SaveFolder = "Redz | redz lib v5.lua"
